@@ -62,6 +62,6 @@ os.makedirs("model", exist_ok=True)
 model.save("../model/crop_disease_model.h5")
 
 
-print("✅ Model trained and saved successfully")
+print("✅ Model trained and saved Perfectly")
 
 
